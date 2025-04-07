@@ -1,2 +1,2 @@
 #Documentación
-![](./diagram.drawio.svg)
+![](modelo_logico.drawio.svg)
